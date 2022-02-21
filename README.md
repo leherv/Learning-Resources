@@ -52,3 +52,10 @@
 ## Code That Fits in Your Head Heuristics for Software Engineering
 
 ## The Software Craftsman
+
+## Clean Agile
+* Trivariate Analysis
+* Agile Manifesto 
+* Small teams doing small things
+* Agile Movement
+* Software Craftsmanship Movement 
