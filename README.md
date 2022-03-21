@@ -58,4 +58,18 @@
 * Agile Manifesto 
 * Small teams doing small things
 * Agile Movement
-* Software Craftsmanship Movement 
+* Software Craftsmanship Movement
+
+# Blogs
+
+## https://blog.cleancoder.com/
+
+## https://manifesto.softwarecraftsmanship.org/
+
+# Channels 
+
+## The Native Web
+* https://www.youtube.com/channel/UC0BtS97KQR7I4Xqa9VYlkvg
+
+## Scott Hanselman
+* https://www.youtube.com/c/shanselman
