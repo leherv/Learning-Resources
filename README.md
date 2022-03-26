@@ -62,8 +62,8 @@
 
 # Blogs
 
+## https://enterprisecraftsmanship.com/posts
 ## https://blog.cleancoder.com/
-
 ## https://manifesto.softwarecraftsmanship.org/
 
 # Channels 
@@ -73,3 +73,8 @@
 
 ## Scott Hanselman
 * https://www.youtube.com/c/shanselman
+
+## Khorikov Videos
+https://www.youtube.com/watch?v=kPV1SkdSnhE&t=3577s
+https://www.youtube.com/watch?v=5iJWOPaNZDA&t=3173s
+https://www.youtube.com/watch?v=k_ItB5btREU
