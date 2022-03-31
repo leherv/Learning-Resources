@@ -65,6 +65,7 @@
 ## https://enterprisecraftsmanship.com/posts
 ## https://blog.cleancoder.com/
 ## https://manifesto.softwarecraftsmanship.org/
+## https://cezarypiatek.github.io/
 
 # Channels 
 
