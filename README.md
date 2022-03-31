@@ -78,3 +78,6 @@
 https://www.youtube.com/watch?v=kPV1SkdSnhE&t=3577s
 https://www.youtube.com/watch?v=5iJWOPaNZDA&t=3173s
 https://www.youtube.com/watch?v=k_ItB5btREU
+
+# Video Courses
+https://enterprisecraftsmanship.com/online-training
