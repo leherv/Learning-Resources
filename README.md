@@ -62,12 +62,16 @@
 * Agile Movement
 * Software Craftsmanship Movement
 
+## Solidbook - https://solidbook.io/
+* Very good end2end book regarding professional software development
+
 # Blogs
 
 ## https://enterprisecraftsmanship.com/posts
 ## https://blog.cleancoder.com/
-## https://manifesto.softwarecraftsmanship.org/
+## https://khalilstemmler.com/articles
 ## https://cezarypiatek.github.io/
+## https://manifesto.softwarecraftsmanship.org/
 
 # Channels 
 
@@ -78,9 +82,9 @@
 * https://www.youtube.com/c/shanselman
 
 ## Khorikov Videos
-https://www.youtube.com/watch?v=kPV1SkdSnhE&t=3577s
-https://www.youtube.com/watch?v=5iJWOPaNZDA&t=3173s
-https://www.youtube.com/watch?v=k_ItB5btREU
+* https://www.youtube.com/watch?v=kPV1SkdSnhE&t=3577s
+* https://www.youtube.com/watch?v=5iJWOPaNZDA&t=3173s
+* https://www.youtube.com/watch?v=k_ItB5btREU
 
 # Video Courses
 https://enterprisecraftsmanship.com/online-training
