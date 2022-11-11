@@ -62,14 +62,10 @@
 * Agile Movement
 * Software Craftsmanship Movement
 
-## Solidbook - https://solidbook.io/
-* Very good end2end book regarding professional software development
-
 # Blogs
 
 ## https://enterprisecraftsmanship.com/posts
 ## https://blog.cleancoder.com/
-## https://khalilstemmler.com/articles
 ## https://cezarypiatek.github.io/
 ## https://manifesto.softwarecraftsmanship.org/
 
